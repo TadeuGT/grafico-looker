@@ -6,7 +6,7 @@
   "packageUrl": "https://seu-bucket-ou-site.com/tabela",
   "supportUrl": "https://seu-suporte.com",
   "resources": {
-    "js": ["index.js"],
-    "css": ["index.css"]
+    "js": ["https://cdn.jsdelivr.net/gh/TadeuGT/grafico-looker@master/index.js"],
+    "css": ["https://cdn.jsdelivr.net/gh/TadeuGT/grafico-looker@master/index.css"] 
   }
 }
