@@ -1,0 +1,19 @@
+/* Importa o estilo base */
+@import url("https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css");
+
+/* Customização para parecer com o seu print */
+#myTable {
+  font-family: sans-serif;
+  font-size: 13px;
+}
+
+#myTable thead th {
+  background-color: #DDE0F0 !important;
+  color: #333;
+  border-bottom: 2px solid #ccc !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current {
+  background: #DDE0F0 !important;
+  border: 1px solid #999 !important;
+}

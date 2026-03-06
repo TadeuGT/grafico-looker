@@ -1,0 +1,12 @@
+{
+  "name": "Tabela Dinâmica Customizada",
+  "organization": "Minha Empresa",
+  "description": "Tabela de performance otimizada com CSS customizado",
+  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/logo.png",
+  "packageUrl": "https://seu-bucket-ou-site.com/tabela",
+  "supportUrl": "https://seu-suporte.com",
+  "resources": {
+    "js": ["index.js"],
+    "css": ["index.css"]
+  }
+}
