@@ -1,10 +1,10 @@
 {
-  "name": "Tabela Dinâmica Customizada",
-  "organization": "Minha Empresa",
-  "description": "Tabela de performance otimizada com CSS customizado",
-  "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/logo.png",
-  "packageUrl": "https://seu-bucket-ou-site.com/tabela",
-  "supportUrl": "https://seu-suporte.com",
+  "name": "Sua Tabela",
+  "organization": "TadeuGT",
+  "description": "Pivot Table custom",
+  "logoUrl": "https://www.whirlpoolcorp.com/content/dam/business-unit/whirlpoolcorp/wp-content/upload/logos/WhirlpoolCorp-2017Logo_2C_B.png",
+  "packageUrl": "https://github.com/TadeuGT/grafico-looker",
+  "supportUrl": "https://github.com/TadeuGT/grafico-looker",
   "resources": {
     "js": ["https://cdn.jsdelivr.net/gh/TadeuGT/grafico-looker@master/index.js"],
     "css": ["https://cdn.jsdelivr.net/gh/TadeuGT/grafico-looker@master/index.css"] 
